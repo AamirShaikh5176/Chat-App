@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1e6cc34e-ed4f-4983-a9d9-57026b52c8ab" width="45%" />
+  <img src="https://github.com/user-attachments/assets/1b149457-9440-4672-bc3b-c02ce32c20e3" width="45%" />
+</p>
+
  1. Introduction
  In this project, we developed a real-time chat application using HTML,
  JavaScript, and CSS. The application allows users to communicate instantly in
