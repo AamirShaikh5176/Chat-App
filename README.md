@@ -1,5 +1,3 @@
-<img width="1920" height="1080" alt="Screenshot 2026-01-31 202533" src="https://github.com/user-attachments/assets/d2b608d1-19ed-45ce-99e7-e15f3dfd59cb" />
-
  1. Introduction
  In this project, we developed a real-time chat application using HTML,
  JavaScript, and CSS. The application allows users to communicate instantly in
